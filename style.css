@@ -1,6 +1,8 @@
 :root {
-    --color-bgc: #000000;
-    --color-txt: #ffffff;
+    --color-bgc: #205D67;
+    --color-bgc-2: #639A67;
+    --color-txt: #D8EBB5;
+    --color-txt-2: #D9BF77;
 }
 
 * {
